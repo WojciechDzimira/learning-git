@@ -4,8 +4,7 @@
 shoping_list = {
     "piekarnia": ["chleb", "pączek", "bułki"],
     "warzywniak": ["marchew", "seler", "rukola"], 
-    "monopolowy": ["wino"]
-    }
+     }
 item_counter = 0
 
 for shop, items in shoping_list.items():
