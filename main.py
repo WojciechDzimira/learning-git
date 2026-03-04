@@ -13,4 +13,4 @@ for shop, items in shoping_list.items():
 
 print(f"w sumie kupię: {item_counter} produktów.")
 
-print("haloooo")
+print("branch nowa")
