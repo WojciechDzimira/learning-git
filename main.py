@@ -12,5 +12,3 @@ for shop, items in shoping_list.items():
     item_counter += len(items) 
 
 print(f"w sumie kupię: {item_counter} produktów.")
-
-print("test")
